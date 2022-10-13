@@ -1,0 +1,28 @@
+{
+  "name": "steamidconverter",
+  "version": "1.0.3",
+  "description": "Steamid 64 to steamid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingdragox99/steamid-coverter.git"
+  },
+  "keywords": [
+    "steam",
+    "steamid",
+    "steamid64"
+  ],
+  "author": "Dragolelele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingdragox99/steamid-coverter/issues"
+  },
+  "homepage": "https://github.com/kingdragox99/steamid-coverter#readme",
+  "dependencies": {
+    "big-integer": "^1.6.51",
+    "steamidconverter": "^1.0.0"
+  }
+}
