@@ -1,6 +1,6 @@
 {
   "name": "steamidconverter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Steamid 64 to steamid",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/kingdragox99/steamid-coverter#readme",
   "dependencies": {
-    "big-integer": "^1.6.51",
-    "steamidconverter": "^1.0.0"
+    "big-integer": "^1.6.51"
   }
 }
