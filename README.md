@@ -1,4 +1,4 @@
-# steamid-coverter
+# steamid-converter
 
 ## SteamIDConverter.js
 
